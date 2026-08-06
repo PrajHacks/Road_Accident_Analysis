@@ -81,53 +81,8 @@ The dashboard is built using a road accident dataset containing information such
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
+> <img width="1306" height="736" alt="image" src="https://github.com/user-attachments/assets/2c2f86ba-c1b1-4757-8cf9-e8b66f4cb583" />
 
-Example:
-
-```
-images/dashboard.png
-```
-
-or
-
-```md
-![Dashboard](images/dashboard.png)
-```
-
----
-
-## 📁 Project Structure
-
-```
-Road-Accident-Dashboard/
-│
-├── Road Accident Dashboard.pbix
-├── Road Accident Dataset.xlsx
-├── images/
-│   └── dashboard.png
-├── README.md
-```
-
----
-
-## 🚀 How to Use
-
-1. Clone the repository.
-
-```
-git clone https://github.com/yourusername/Road-Accident-Dashboard.git
-```
-
-2. Open the `.pbix` file using Power BI Desktop.
-
-3. If prompted, reconnect the Excel dataset.
-
-4. Refresh the data.
-
-5. Explore the dashboard using the available filters and slicers.
-
----
 
 ## 📌 Skills Demonstrated
 
@@ -148,10 +103,9 @@ git clone https://github.com/yourusername/Road-Accident-Dashboard.git
 
 **Prajwal Shevante**
 
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/prajwalshevante/)
 - GitHub: https://github.com/PrajHacks
-- Email: your-email@example.com
+- Email: prajwalshevante1@gmail.com
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
