@@ -1,2 +1,157 @@
-# Road_Accident_Analysis
-Developed an interactive Power BI dashboard to analyze 307K+ road accidents and 418K+ casualties. Cleaned and transformed data using Power Query, created DAX measures, and built interactive KPIs, maps, and charts to visualize accident trends by time, weather, road surface, severity, and location.
+# 🚦 Road Accident Analysis Dashboard
+
+An interactive Power BI dashboard built to analyze road accident data and uncover meaningful insights from over **307,000 accidents** and **418,000 casualties**. The dashboard helps identify accident trends, high-risk conditions, and key performance indicators through dynamic visualizations and filters.
+
+---
+
+## 📌 Project Overview
+
+This project demonstrates how Power BI can be used to transform raw accident data into actionable business insights. The dashboard enables users to explore accident patterns based on time, weather conditions, road surface, severity, location, and junction control.
+
+---
+
+## 🎯 Objectives
+
+- Analyze overall road accident statistics.
+- Identify accident trends over time.
+- Compare accident severity across different conditions.
+- Understand the impact of weather and road surface on accidents.
+- Visualize geographical distribution of accidents.
+- Build an interactive dashboard for data-driven decision making.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Power BI Desktop**
+- **Power Query**
+- **DAX (Data Analysis Expressions)**
+- **Microsoft Excel**
+- **Bing Maps Visualization**
+
+---
+
+## 📊 Dashboard Features
+
+### Key Performance Indicators (KPIs)
+
+- Total Accidents
+- Total Casualties
+- Fatal Accident Percentage
+- Peak Accident Hour
+
+### Interactive Visualizations
+
+- Monthly Accident Trend
+- Hour-wise Accident Distribution
+- Weather Condition Analysis
+- Road Surface Analysis
+- Accident Severity Distribution
+- Junction Control Analysis
+- Geographic Accident Map
+- Dynamic Filters (Severity & Area)
+
+---
+
+## 📂 Dataset
+
+The dashboard is built using a road accident dataset containing information such as:
+
+- Accident Date & Time
+- Accident Severity
+- Casualties
+- Weather Conditions
+- Road Surface
+- Urban/Rural Area
+- Junction Control
+- Geographic Coordinates
+
+---
+
+## 📈 Key Insights
+
+- Most accidents occur during evening peak traffic hours.
+- Dry road surfaces account for the highest number of accidents.
+- Fine weather conditions record the largest share of accidents.
+- Fatal accidents represent only a small percentage of total accidents.
+- Urban and rural filters provide location-specific accident analysis.
+- Interactive visualizations help identify accident hotspots and trends.
+
+---
+
+## 📷 Dashboard Preview
+
+> Add your dashboard screenshot here.
+
+Example:
+
+```
+images/dashboard.png
+```
+
+or
+
+```md
+![Dashboard](images/dashboard.png)
+```
+
+---
+
+## 📁 Project Structure
+
+```
+Road-Accident-Dashboard/
+│
+├── Road Accident Dashboard.pbix
+├── Road Accident Dataset.xlsx
+├── images/
+│   └── dashboard.png
+├── README.md
+```
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository.
+
+```
+git clone https://github.com/yourusername/Road-Accident-Dashboard.git
+```
+
+2. Open the `.pbix` file using Power BI Desktop.
+
+3. If prompted, reconnect the Excel dataset.
+
+4. Refresh the data.
+
+5. Explore the dashboard using the available filters and slicers.
+
+---
+
+## 📌 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Power Query
+- DAX
+- Dashboard Development
+- Data Visualization
+- Business Intelligence
+- KPI Design
+- Analytical Thinking
+- Interactive Reporting
+
+---
+
+## 📬 Contact
+
+**Prajwal Shevante**
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/PrajHacks
+- Email: your-email@example.com
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
